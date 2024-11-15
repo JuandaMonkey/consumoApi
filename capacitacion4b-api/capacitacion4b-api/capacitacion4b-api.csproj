@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>capacitacion4b_api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\capacitacion4b-api.Data\capacitacion4b-api.Data.csproj" />
+    <ProjectReference Include="..\capacitacion4b-api.DTOs\capacitacion4b-api.DTOs.csproj" />
+    <ProjectReference Include="..\capacitacion4b-api.Models\capacitacion4b-api.Models.csproj" />
+  </ItemGroup>
+
+</Project>
