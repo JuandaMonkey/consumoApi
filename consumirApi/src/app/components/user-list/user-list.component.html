@@ -1,0 +1,115 @@
+<!-- contenedor -->
+<div class="container mt-4">
+    <!-- boton de dialogDisplay -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Usuarios</h2>
+        <button pButton 
+                type="button"
+                label="Nuevo Usuario"
+                icon="pi pi-plus"
+                class="btn btn-primary"
+                (click)="openDialog()"
+                ></button>
+    </div>
+
+    <!-- contenedor de tabla -->
+    <div class="table-responsive">
+        <!-- tabla de usuarios -->
+        <p-table class="table table-striped table-hover" 
+                 [value]="user">
+            <!-- cabecera -->
+            <ng-template pTemplate="header">
+                <!-- fila de cabecera -->
+                <tr>
+                    <th>Nombres</th>
+                    <th>Usuario</th>
+                    <th class="text-center">Acción</th>
+                </tr>
+            </ng-template>
+            <!-- cuerpo -->
+            <ng-template pTemplate="body" let-user>
+                <!-- parametros -->
+                <tr [@fadeInOut]>
+                    <td>{{user.nombresUsuario}}</td>
+                    <td>{{user.usuarioUsuario}}</td>
+                    <!-- boton modificar -->
+                    <td class="text-center">
+                        <button pButton
+                                class="btn btn-sm btn-warning me-2"
+                                type="button"
+                                icon="pi pi-pencil"
+                                label="Editar"
+                                (click)="saveUpdateUser(user)">
+                        </button>
+                    </td>
+                    <!-- boton eliminar -->
+                    <td class="text-center">
+                        <button pButton
+                                class="btn btn-sm btn-danger me-2"
+                                type="button"
+                                icon="pi pi-trash"
+                                label="Eliminar"
+                                (click)="deleteUser(user.idUsuario)">
+                        </button>
+                    </td>
+                </tr>
+            </ng-template>
+        </p-table>
+    </div>
+
+    <!-- displayDialog -->
+    <p-dialog   header = "Usuario" 
+                [(visible)] = "displayDialog" 
+                [modal] = "true"
+                [closable] = "true"
+                [style] = "{width: '400px'}"
+                [contentStyle]="{'overflow': 'visible'}">
+        <!-- formulario -->
+        <form [formGroup]="userForm"
+              (ngSubmit)="saveUser()">
+            <!-- parametro - nombres -->
+            <div class="mb-3">
+                <label  for = "user"
+                        class="form-label">Nombres</label>
+                <input  id="nombresUsuario" 
+                        class="form-control"
+                        pInputText 
+                        formControlName="nombres">
+            </div>
+            <!-- parametro - usuario -->
+            <div class="mb-3">
+                <label  for = "usuario"
+                        class="form-label">Usuario</label>
+                <input  id = "usuarioUsuario" 
+                        class = "form-control"
+                        pInputText 
+                        formControlName = "usuario">
+            </div>
+            <!-- parametro - contrasena -->
+            <div class="mb-3">
+                <label  for = "contrasena"
+                        class="form-label">Contraseña</label>
+                <input  id = "contrasenaUsuario" 
+                        class = "form-control"
+                        pInputText 
+                        formControlName = "contrasena">
+            </div>
+            <div class="d-flex justify-content-end">
+                <!-- boton cerrar -->
+                <button pButton 
+                        class="btn btn-secondary me-2"
+                        type="button"
+                        label="Cancelar"
+                        (click)="displayDialog = false"></button>
+                <!-- boton guardar -->
+                <button pButton
+                        class="btn btn-primary"
+                        type="submit"
+                        label="Guardar"
+                        [disabled]="!userForm.valid">
+                </button>
+            </div>
+        </form>
+    </p-dialog>
+    
+</div>

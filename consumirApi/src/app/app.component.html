@@ -1,0 +1,32 @@
+<main class="container">
+  <header class="bg-primary text-white py-4 text-center mb-4">
+    <h1 class="display-5">Bienvenidos a la capacitación</h1>
+    <p class="lead">Consumo de api</p>
+  </header>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+    <div class="container-fluid">
+      <a href="#" class="navbar-brand">Capacitacion</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+       aria-controls="navbarNav" aria-expanded="false" aria-label="Activar navegacion">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+     <ul class="navbar-nav me-auto">
+      <li class="nav-item">
+        <a [routerLink]="['/tareas']" class="nav-link">Ver Tareas</a>
+      </li>
+      <li class="nav-item">
+        <a [routerLink]="['/usuarios']" class="nav-link">Ver Usuarios</a>
+      </li>
+     </ul> 
+    </div>
+
+    </div>
+    
+  </nav>
+
+  <router-outlet></router-outlet>
+</main>
