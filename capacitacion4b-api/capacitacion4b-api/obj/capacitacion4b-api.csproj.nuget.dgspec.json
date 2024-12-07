@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj": {}
+    "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj": {}
   },
   "projects": {
-    "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj": {
+    "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj",
+        "projectUniqueName": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj",
         "projectName": "capacitacion4b-api.Data",
-        "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj",
+        "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj",
         "packagesPath": "C:\\Users\\juand\\.nuget\\packages\\",
-        "outputPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Data\\obj\\",
+        "outputPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
-                "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj"
+              "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
+                "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj"
               },
-              "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj": {
-                "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj"
+              "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj": {
+                "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
+    "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
+        "projectUniqueName": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
         "projectName": "capacitacion4b-api.DTOs",
-        "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
+        "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
         "packagesPath": "C:\\Users\\juand\\.nuget\\packages\\",
-        "outputPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\obj\\",
+        "outputPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj": {
+    "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj",
+        "projectUniqueName": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj",
         "projectName": "capacitacion4b-api.Models",
-        "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj",
+        "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj",
         "packagesPath": "C:\\Users\\juand\\.nuget\\packages\\",
-        "outputPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\obj\\",
+        "outputPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -220,14 +220,14 @@
         }
       }
     },
-    "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj": {
+    "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj",
+        "projectUniqueName": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj",
         "projectName": "capacitacion4b-api",
-        "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj",
+        "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api\\capacitacion4b-api.csproj",
         "packagesPath": "C:\\Users\\juand\\.nuget\\packages\\",
-        "outputPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api\\obj\\",
+        "outputPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -249,14 +249,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj": {
-                "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj"
+              "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj": {
+                "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj"
               },
-              "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
-                "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj"
+              "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
+                "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj"
               },
-              "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj": {
-                "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj"
+              "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj": {
+                "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Models\\capacitacion4b-api.Models.csproj"
               }
             }
           }

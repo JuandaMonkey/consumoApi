@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+IE/c98INM=",
+  "dgSpecHash": "nd/gp+xWnNY=",
   "success": true,
-  "projectFilePath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj",
+  "projectFilePath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.Data\\capacitacion4b-api.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juand\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\juand\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\
 C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.pdb
 C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\ref\capacitacion4b-api.DTOs.dll
 C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.sourcelink.json
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\bin\Debug\net8.0\capacitacion4b-api.DTOs.deps.json
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\bin\Debug\net8.0\capacitacion4b-api.DTOs.dll
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\bin\Debug\net8.0\capacitacion4b-api.DTOs.pdb
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.AssemblyInfoInputs.cache
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.AssemblyInfo.cs
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.csproj.CoreCompileInputs.cache
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.sourcelink.json
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.dll
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\refint\capacitacion4b-api.DTOs.dll
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\capacitacion4b-api.DTOs.pdb
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.DTOs\obj\Debug\net8.0\ref\capacitacion4b-api.DTOs.dll

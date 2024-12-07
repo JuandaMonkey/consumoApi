@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\",
+  "WorkspaceRootPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD85D09E-6F36-4E64-A49C-4676D43E4AEF}|capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj|c:\\uts-capacitacion\\capacitacion4b-api\\capacitacion4b-api.dtos\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B7C1798-B3A9-4F61-8B1D-A1A2D893C5FC}|capacitacion4b-api\\capacitacion4b-api.csproj|c:\\uts-capacitacion\\consumoapi\\capacitacion4b-api\\capacitacion4b-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7C1798-B3A9-4F61-8B1D-A1A2D893C5FC}|capacitacion4b-api\\capacitacion4b-api.csproj|solutionrelative:capacitacion4b-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD85D09E-6F36-4E64-A49C-4676D43E4AEF}|capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj|c:\\uts-capacitacion\\consumoapi\\capacitacion4b-api\\capacitacion4b-api.dtos\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD85D09E-6F36-4E64-A49C-4676D43E4AEF}|capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj|solutionrelative:capacitacion4b-api.dtos\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD85D09E-6F36-4E64-A49C-4676D43E4AEF}|capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj|c:\\uts-capacitacion\\capacitacion4b-api\\capacitacion4b-api.dtos\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD85D09E-6F36-4E64-A49C-4676D43E4AEF}|capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj|c:\\uts-capacitacion\\consumoapi\\capacitacion4b-api\\capacitacion4b-api.dtos\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD85D09E-6F36-4E64-A49C-4676D43E4AEF}|capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj|solutionrelative:capacitacion4b-api.dtos\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,23 +31,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "createTaskDto.cs",
-              "DocumentMoniker": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
-              "RelativeDocumentMoniker": "capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
-              "ToolTip": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
-              "RelativeToolTip": "capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api\\Program.cs",
+              "RelativeDocumentMoniker": "capacitacion4b-api\\Program.cs",
+              "ToolTip": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api\\Program.cs",
+              "RelativeToolTip": "capacitacion4b-api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T00:27:41.335Z",
+              "WhenOpened": "2024-11-20T15:40:38.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "createTaskDto.cs",
+              "DocumentMoniker": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
+              "RelativeDocumentMoniker": "capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
+              "ToolTip": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
+              "RelativeToolTip": "capacitacion4b-api.DTOs\\task\\createTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:27:41.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "updateTaskDto.cs",
-              "DocumentMoniker": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\updateTaskDto.cs",
+              "DocumentMoniker": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\updateTaskDto.cs",
               "RelativeDocumentMoniker": "capacitacion4b-api.DTOs\\task\\updateTaskDto.cs",
-              "ToolTip": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\updateTaskDto.cs",
+              "ToolTip": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\task\\updateTaskDto.cs",
               "RelativeToolTip": "capacitacion4b-api.DTOs\\task\\updateTaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

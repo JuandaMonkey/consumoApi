@@ -10,3 +10,15 @@ C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.
 C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.pdb
 C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\ref\capacitacion4b-api.Models.dll
 C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.sourcelink.json
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\bin\Debug\net8.0\capacitacion4b-api.Models.deps.json
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\bin\Debug\net8.0\capacitacion4b-api.Models.dll
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\bin\Debug\net8.0\capacitacion4b-api.Models.pdb
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.AssemblyInfoInputs.cache
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.AssemblyInfo.cs
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.csproj.CoreCompileInputs.cache
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.sourcelink.json
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.dll
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\refint\capacitacion4b-api.Models.dll
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\capacitacion4b-api.Models.pdb
+C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\obj\Debug\net8.0\ref\capacitacion4b-api.Models.dll

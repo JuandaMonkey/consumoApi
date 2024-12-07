@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {}
+    "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {}
   },
   "projects": {
-    "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
+    "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
+        "projectUniqueName": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
         "projectName": "capacitacion4b-api.DTOs",
-        "projectPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
+        "projectPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\capacitacion4b-api.DTOs.csproj",
         "packagesPath": "C:\\Users\\juand\\.nuget\\packages\\",
-        "outputPath": "C:\\UTS-Capacitacion\\capacitacion4b-api\\capacitacion4b-api.DTOs\\obj\\",
+        "outputPath": "C:\\UTS-Capacitacion\\consumoApi\\capacitacion4b-api\\capacitacion4b-api.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

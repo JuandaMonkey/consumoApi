@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = capacitacion4b_api.Models
-build_property.ProjectDir = C:\UTS-Capacitacion\capacitacion4b-api\capacitacion4b-api.Models\
+build_property.ProjectDir = C:\UTS-Capacitacion\consumoApi\capacitacion4b-api\capacitacion4b-api.Models\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
